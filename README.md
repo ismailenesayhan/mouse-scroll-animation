@@ -1,4 +1,4 @@
-# mouse-scrool-animation
+# mouse-scroll-animation
 Mouse scrolling animation: SVG, HTML &amp; CSS
 
 ```html
